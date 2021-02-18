@@ -18,7 +18,7 @@ More than 5000 tweets were analysed in order to create a model that would classi
 1) Removing stop words, punctuation, HTML tags, digits, brackets, etc
 2) Normalization
 
-This tasks are necessary to remove any words that don't add meaning such as the or they. So the final outcome would be words that involve topics such as love, cats, time, etc.
+This tasks are necessary to remove any words that don't add meaning such as the or they. So the final outcome would be words that involve topics such as love, cat, video game, etc.
 
 ### Machine Learning Algorithms
 
